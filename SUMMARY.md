@@ -9,10 +9,25 @@
 * [1.2必备工具与调试](yi-.-ren-shi-android/publish-your-docs.md)
 * [1.3Android性能调优](yi-.-ren-shi-android/1.3android-xing-neng-tiao-you.md)
 
-## Basics
+## 二.Android软件生态
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [2.1办公.效率类](er-.android-ruan-jian-sheng-tai/editor.md)
+* [Markdown](er-.android-ruan-jian-sheng-tai/markdown.md)
+* [Images & media](er-.android-ruan-jian-sheng-tai/images-and-media.md)
+* [Interactive blocks](er-.android-ruan-jian-sheng-tai/interactive-blocks.md)
+* [Integrations](er-.android-ruan-jian-sheng-tai/integrations.md)
+
+## 三.Android硬件扩展
+
+* [3.1手机变口袋计算机](san-.android-ying-jian-kuo-zhan/3.1-shou-ji-bian-kou-dai-ji-suan-ji.md)
+
+## 四.Android系统与虚拟化
+
+* [4.1Android跑不同系统](si-.android-xi-tong-yu-xu-ni-hua/4.1android-pao-bu-tong-xi-tong.md)
+* [4.2Root后跑不同OS](si-.android-xi-tong-yu-xu-ni-hua/4.2root-hou-pao-bu-tong-os.md)
+
+***
+
+* [终章](zhong-zhang/README.md)
+  * [后言](zhong-zhang/hou-yan.md)
+  * [本书涉及所有App以及推荐](zhong-zhang/ben-shu-she-ji-suo-you-app-yi-ji-tui-jian.md)
