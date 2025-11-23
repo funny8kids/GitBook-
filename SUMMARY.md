@@ -26,8 +26,7 @@
 * [4.1Android跑不同系统](si-.android-xi-tong-yu-xu-ni-hua/4.1android-pao-bu-tong-xi-tong.md)
 * [4.2Root后跑不同OS](si-.android-xi-tong-yu-xu-ni-hua/4.2root-hou-pao-bu-tong-os.md)
 
-***
+## 终章
 
-* [终章](zhong-zhang/README.md)
-  * [后言](zhong-zhang/hou-yan.md)
-  * [本书涉及所有App以及推荐](zhong-zhang/ben-shu-she-ji-suo-you-app-yi-ji-tui-jian.md)
+* [后言](zhong-zhang/hou-yan.md)
+* [App汇总以及推荐](zhong-zhang/app-hui-zong-yi-ji-tui-jian.md)
