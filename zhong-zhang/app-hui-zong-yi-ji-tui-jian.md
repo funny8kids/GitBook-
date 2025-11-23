@@ -20,7 +20,7 @@
 
 好极了
 
-<div align="left"><figure><img src="../.gitbook/assets/OpenKeyChain.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/music free.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/bitwarden.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Aves Gallary.ico" alt="" width="96"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/OpenKeyChain.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/music free.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/bitwarden.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Aves Gallary.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/kali nethunter.ico" alt="" width="96"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/类Android.ico" alt="" width="96"><figcaption></figcaption></figure></div>
 
 很好
 
