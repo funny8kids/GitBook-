@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: '1'
 layout:
   width: default
   title:
@@ -20,7 +20,7 @@ metaLinks:
       https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/publish-your-docs
 ---
 
-# Publish your docs
+# 1.2必备工具与调试
 
 Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
 

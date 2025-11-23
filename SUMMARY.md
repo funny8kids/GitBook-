@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Android软硬件以及玩法大全](README.md)
+  * [前言](readme/qian-yan.md)
 
-## Getting Started
+## 一.认识Android
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [1.1Android结构与进阶概念](yi-.-ren-shi-android/quickstart.md)
+* [1.2必备工具与调试](yi-.-ren-shi-android/publish-your-docs.md)
+* [1.3Android性能调优](yi-.-ren-shi-android/1.3android-xing-neng-tiao-you.md)
 
 ## Basics
 
