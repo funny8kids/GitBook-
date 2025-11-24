@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: '2'
 layout:
   width: default
   title:
@@ -14,12 +14,9 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/basics/images-and-media
 ---
 
-# Images & media
+# 2.3开发者工具
 
 GitBook allows you to add images and media easily to your docs. Simply drag a file into the editor, or use the file manager in the upper right corner to upload multiple images at once.
 

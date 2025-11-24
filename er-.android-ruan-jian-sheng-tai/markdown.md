@@ -1,5 +1,5 @@
 ---
-icon: markdown
+icon: '1'
 layout:
   width: default
   title:
@@ -14,12 +14,9 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/basics/markdown
 ---
 
-# Markdown
+# 2.2影音·图像类
 
 GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
 

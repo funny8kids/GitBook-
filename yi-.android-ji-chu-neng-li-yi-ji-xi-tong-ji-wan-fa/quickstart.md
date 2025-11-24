@@ -1,5 +1,5 @@
 ---
-icon: '0'
+icon: '1'
 layout:
   width: default
   title:
@@ -14,12 +14,9 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/quickstart
 ---
 
-# 1.1Android结构与进阶概念
+# 1.2必备工具与调试
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 

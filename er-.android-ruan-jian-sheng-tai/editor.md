@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: '0'
 layout:
   width: default
   title:
@@ -14,12 +14,9 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/basics/editor
 ---
 
-# Editor
+# 2.1办公·效率类
 
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
