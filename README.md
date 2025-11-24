@@ -1,25 +1,8 @@
 ---
 icon: square-github
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Android手机软硬件及其玩法大全
+# Android软硬件以及玩法大全
 
 ### 本书的目的
 
@@ -37,4 +20,4 @@ metaLinks:
 
 ### 极速跳转
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-type="number"></th><th></th><th data-type="number"></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><i class="fa-bolt">:bolt:</i></h4></td><td>null</td><td>Android基础能力</td><td>null</td><td>5</td><td data-object-fit="contain"><a href=".gitbook/assets/微信图片_20251122201254_1382_2.png">微信图片_20251122201254_1382_2.png</a></td><td></td><td><a href="yi-.-ren-shi-android/quickstart.md">quickstart.md</a></td></tr><tr><td align="center"><h4><i class="fa-leaf">:leaf:</i></h4></td><td>null</td><td>Android必备效率软件</td><td>null</td><td>4</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td align="center"><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td>null</td><td>Android硬件扩展玩法</td><td>null</td><td>5</td><td></td><td></td><td><a href="yi-.-ren-shi-android/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td align="center">Android虚拟化玩法</td><td>null</td><td></td><td>null</td><td>3</td><td></td><td></td><td></td></tr><tr><td align="center"></td><td>null</td><td></td><td>null</td><td>5</td><td data-object-fit="contain"><a href=".gitbook/assets/Portrait_photograph_of_content_creator_Hu_Chenfeng_(户晨风).jpg">Portrait_photograph_of_content_creator_Hu_Chenfeng_(户晨风).jpg</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-type="number"></th><th></th><th data-type="number"></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><i class="fa-bolt">:bolt:</i></h4></td><td>null</td><td>Android基础能力</td><td>null</td><td>5</td><td data-object-fit="contain"><a href=".gitbook/assets/微信图片_20251122201254_1382_2.png">微信图片_20251122201254_1382_2.png</a></td><td></td><td><a href="yi-.-ren-shi-android/quickstart.md">quickstart.md</a></td></tr><tr><td align="center"><h4><i class="fa-leaf">:leaf:</i></h4></td><td>null</td><td>Android必备效率软件</td><td>null</td><td>4</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td align="center"><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td>null</td><td>Android硬件扩展玩法</td><td>null</td><td>5</td><td></td><td></td><td><a href="yi-.-ren-shi-android/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td align="center">Android虚拟化玩法</td><td>null</td><td></td><td>null</td><td>3</td><td></td><td></td><td></td></tr><tr><td align="center">后言以及总结</td><td>null</td><td></td><td>null</td><td>5</td><td data-object-fit="contain"><a href=".gitbook/assets/Portrait_photograph_of_content_creator_Hu_Chenfeng_(户晨风).jpg">Portrait_photograph_of_content_creator_Hu_Chenfeng_(户晨风).jpg</a></td><td></td><td></td></tr></tbody></table>

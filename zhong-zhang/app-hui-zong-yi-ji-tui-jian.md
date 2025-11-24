@@ -1,3 +1,7 @@
+---
+icon: '1'
+---
+
 # App汇总以及推荐
 
 <div align="left"><figure><img src="../.gitbook/assets/shizuku (1).ico" alt="" width="96"><figcaption><p><a href="https://shizuku.rikka.app/zh-hans/download/">Shizuku</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/github (1).ico" alt="" width="96"><figcaption><p>Github App</p></figcaption></figure> <figure><img src="../.gitbook/assets/Soild Explorer.ico" alt="" width="96"><figcaption><p>Solid Explorer</p></figcaption></figure> <figure><img src="../.gitbook/assets/termux (1).ico" alt="" width="96"><figcaption><p>Termux</p></figcaption></figure> <figure><img src="../.gitbook/assets/MT 管理器 (1).ico" alt="" width="96"><figcaption><p>MT管理器</p></figcaption></figure> <figure><img src="../.gitbook/assets/V2rayNG (1).ico" alt="" width="96"><figcaption><p>V2rayNG</p></figcaption></figure> <figure><img src="../.gitbook/assets/Apkure (1).ico" alt="" width="96"><figcaption><p>Apkure</p></figcaption></figure> <figure><img src="../.gitbook/assets/hiddfy (1).ico" alt="" width="96"><figcaption><p>Hiddfy</p></figcaption></figure></div>
