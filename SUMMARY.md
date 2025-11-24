@@ -21,10 +21,12 @@
 
 * [3.1手机变口袋计算机](san-.android-ying-jian-kuo-zhan/3.1-shou-ji-bian-kou-dai-ji-suan-ji.md)
 
-## 四.Android系统与虚拟化
+## 四.Android多系统与备份查找
 
-* [4.1Android跑不同系统](si-.android-xi-tong-yu-xu-ni-hua/4.1android-pao-bu-tong-xi-tong.md)
-* [4.2Root后跑不同OS](si-.android-xi-tong-yu-xu-ni-hua/4.2root-hou-pao-bu-tong-os.md)
+* [4.1Android跑不同OS](si-.android-duo-xi-tong-yu-bei-fen-cha-zhao/4.1android-pao-bu-tong-xi-tong.md)
+* [4.2Root后跑不同OS](si-.android-duo-xi-tong-yu-bei-fen-cha-zhao/4.2root-hou-pao-bu-tong-os.md)
+* [4.3Android自动化备份](si-.android-duo-xi-tong-yu-bei-fen-cha-zhao/4.3android-zi-dong-hua-bei-fen.md)
+* [4.4Android防丢与查找](si-.android-duo-xi-tong-yu-bei-fen-cha-zhao/4.4android-fang-diu-yu-cha-zhao.md)
 
 ## 终章
 
